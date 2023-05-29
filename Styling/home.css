@@ -172,3 +172,13 @@ span {
     font-weight: 100;
     font-variant: normal;
 }
+
+#resume {
+    text-decoration: none;
+
+}
+
+#linkedin {
+    color: #ffffff;
+    text-decoration: none;
+}
