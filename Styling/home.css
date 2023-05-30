@@ -50,6 +50,10 @@ body {
     padding-top: 50px;
 }
 
+.row a{
+    text-decoration: none;
+}
+
 .column {
     border: 1px rgb(255, 255, 255) dashed;
 }
