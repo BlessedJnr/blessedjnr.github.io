@@ -7,18 +7,18 @@ body {
     font-family: Poppins, sans-serif;
 }
 
-.navbar {
-    height: 45px;
-}
-
-.navbar ul li {
-    padding: 10px 20px;
+#navbarSupportedContent ul li {
+    padding: 0px 20px;
     font-weight: 600;
 }
 
-.navbar ul li a {
-    text-decoration: none;
-    color: #000000;
+.navbar button span {
+    font-size: 18px;
+    font-weight: 100;
+}
+
+.navbar button {
+    margin-top: -5px;
 }
 
 .main_container {
@@ -191,3 +191,4 @@ span {
     color: #ffffff;
     text-decoration: none;
 }
+
