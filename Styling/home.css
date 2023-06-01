@@ -22,13 +22,13 @@ body {
 }
 
 .main_container {
-    border: 1px rgb(255, 255, 255) solid;
+    border: 1px rgb(236, 0, 209) solid;
 }
 
 #home {
     width: 100%;
-    max-height: 600px;
-    border: 1px rgb(255, 255, 255) dashed;
+    min-height: 600px;
+    border: 1px rgb(132, 51, 11) dashed;
     box-sizing: border-box;
 }
 
@@ -37,13 +37,13 @@ body {
     font-size: 30px;
     font-variant: small-caps;
     text-align: center;
-    border: 1px rgb(255, 255, 255) dashed;
+    border: 1px rgb(81, 0, 255) dashed;
     margin-top: 10px;
 }
 
 .row {
-    border: 1px rgb(255, 255, 255) dashed;
-    height: 600px;
+    border: 1px rgb(255, 124, 1) dashed;
+    min-height: 600px;
     font-weight: 900;
     font-size: 100px;
     text-align: center;
@@ -55,7 +55,7 @@ body {
 }
 
 .column {
-    border: 1px rgb(255, 255, 255) dashed;
+    border: 1px rgb(19, 255, 239) dashed;
 }
 
 #background_one {
