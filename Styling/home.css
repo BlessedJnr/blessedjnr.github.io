@@ -22,13 +22,13 @@ body {
 }
 
 .main_container {
-    border: 1px rgb(236, 0, 209) solid;
+    border: 1px rgb(255, 255, 255) solid;
 }
 
 #home {
     width: 100%;
     min-height: 600px;
-    border: 1px rgb(132, 51, 11) dashed;
+    border: 1px rgb(255, 255, 255) dashed;
     box-sizing: border-box;
 }
 
@@ -42,7 +42,7 @@ body {
 }
 
 .row {
-    border: 1px rgb(255, 124, 1) dashed;
+    border: 1px rgb(255, 255, 255) dashed;
     min-height: 600px;
     font-weight: 900;
     font-size: 100px;
@@ -55,7 +55,7 @@ body {
 }
 
 .column {
-    border: 1px rgb(19, 255, 239) dashed;
+    border: 1px rgb(255, 255, 255) dashed;
 }
 
 #background_one {
@@ -116,7 +116,7 @@ body {
 }
 
 #projects {
-    border: 1px  hsl(292, 100%, 46%) solid;
+    border: 1px  hsl(0, 0%, 100%) solid;
     min-height: 700px;
     text-align: left;
     font-family: Roboto, sans-serif;
@@ -140,7 +140,7 @@ body {
 }
 
 #work {
-    background-color: #fbe5a4;
+    background-color: #ffffff;
 }
 
 #skills {
